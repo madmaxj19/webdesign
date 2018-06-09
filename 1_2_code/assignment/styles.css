@@ -1,3 +1,19 @@
 /** This is a comment that the browser will ignore,
 * Put your CSS code into this file
 */
+
+/***Following css properties are on set on h1 tag
+text color has been changed to green
+font family to sans-serif
+text aligned to center
+positioned h1 to 200px
+added margin to look better 
+*****/
+
+h1  {
+  color: #7BB000;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 200px;
+  border: 2px solid #960055;
+}
