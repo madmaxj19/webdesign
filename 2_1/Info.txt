@@ -6,3 +6,5 @@ http://www.edwardtufte.com/tufte
 
 User centred design: 
 http://www.w3.org/WAI/redesign/ucd
+
+http://www.novolume.co.uk/blog/all-websites-look-the-same/
