@@ -1314,10 +1314,18 @@ Exeunt
 	<script>
 
 		$('.js-go-night').click(function(){
-			alert('Go to night mode - replace me with the CSS changing code!');
+			//alert('Go to night mode - replace me with the CSS changing code!');
+			//below has been added to change page to night mode
+			$('body').addClass('night');
+			$('div').addClass('night');
+			$('li').addClass('night');
 		});
 		$('.js-go-day').click(function(){
-			alert('Go to day mode - replace me with the CSS changing code!');
+			//alert('Go to day mode - replace me with the CSS changing code!');
+			//below has been added to change page to daylight mode
+			$('body').removeClass('night');
+			$('div').removeClass('night');
+			$('li').removeClass('night');
 		});
 
 
