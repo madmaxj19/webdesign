@@ -1,0 +1,8 @@
+Code for this module
+There are two packages of code for this module. Firstly, a blank bootstrap site, to get you up and running with bootstrap:
+
+https://d396qusza40orc.cloudfront.net/phoenixassets/responsive-web-design/2_2_blank_boostrap_site.zip
+
+And then, the final version of the code that you will see being written in the lecture videos:
+
+https://d396qusza40orc.cloudfront.net/phoenixassets/responsive-web-design/2_2_final_code.zip
