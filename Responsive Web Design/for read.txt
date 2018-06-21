@@ -1,2 +1,5 @@
 URL for this module
 JavaScript reference site: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+URL for this lesson
+Handlebars templates: http://handlebarsjs.com
