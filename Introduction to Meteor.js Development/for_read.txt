@@ -1,0 +1,36 @@
+https://www.meteor.com/
+
+Install Meteor: https://www.meteor.com/install
+
+***************************************
+
+Meteor has been installed!
+
+To get started fast:
+
+  $ meteor create ~/my_cool_app
+  $ cd ~/my_cool_app
+  $ meteor
+
+Or see the docs at:
+
+  https://docs.meteor.com
+
+***************************************
+
+If you are new to Meteor, try some of the learning resources here:
+  https://www.meteor.com/tutorials
+
+To start with a different app template, try one of the following:
+
+  meteor create --bare    # to create an empty app
+  meteor create --minimal # to create an app with as few Meteor packages as possible
+  meteor create --full    # to create a more complete scaffolded app
+
+  *****************************
+
+  Meteor template documentation: https://www.meteor.com/tutorials/blaze/templates
+
+  *******************
+
+  
