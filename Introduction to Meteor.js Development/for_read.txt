@@ -34,3 +34,7 @@ To start with a different app template, try one of the following:
   *******************
 
 Search for Meteor packages online: https://atmospherejs.com/
+
+URL for this module
+
+Meteor collections: http://docs.meteor.com/api/collections.html
