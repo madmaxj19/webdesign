@@ -38,3 +38,8 @@ Search for Meteor packages online: https://atmospherejs.com/
 URL for this module
 
 Meteor collections: http://docs.meteor.com/api/collections.html
+
+ Collection.find: http://docs.meteor.com/#/full/find  
+
+
+Meteor.user() function: http://docs.meteor.com/#/full/meteor_user
