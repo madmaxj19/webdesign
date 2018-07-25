@@ -43,3 +43,7 @@ Meteor collections: http://docs.meteor.com/api/collections.html
 
 
 Meteor.user() function: http://docs.meteor.com/#/full/meteor_user
+
+
+URL for this lesson
+Accounts.ui.config: http://docs.meteor.com/api/accounts.html#Accounts-ui-config
